@@ -50,7 +50,7 @@ a visualization. **Merged PRs get exclusive 169pi swag. 🎁**
 <!--     Contributing on your own? Ignore it — no club needed.           -->
 <!-- ────────────────────────────────────────────────────────────────── -->
 
-<!-- ENTRIES:START -->
+<!-- ENTRIES:START -->https://github.com/your-github-handle 
 
 ### @169pi — the first brick 🧱
 
